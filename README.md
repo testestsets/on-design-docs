@@ -1,5 +1,10 @@
-# on-design-docs
-How to write a good design doc
+# How to write a good design doc
+
+## Table of contents
+
+* [before](#before)
+* [during](#during)
+* [after](#after)
 
 ## License
 
